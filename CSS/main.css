@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-style: italic;
+    font-size: 30px;}
+p{
+    color: rgb(210, 11, 245);
+    font-size: 20px;
+}
+ul{
+color: salmon;
+}
+q{
+    color: springgreen;
+    font-style: oblique;
+}
