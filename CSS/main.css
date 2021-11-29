@@ -1,7 +1,10 @@
+body{
+    font-family: 'Nunito Sans', sans-serif;
+}    
 h1{
     color: red;
-    font-style: italic;
-    font-size: 30px;}
+    font-weight: 900;
+}
 p{
     color: rgb(210, 11, 245);
     font-size: 20px;
