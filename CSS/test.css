@@ -27,6 +27,11 @@ line-height: 1.5;
         ul > li {
             margin-right: 30px;
         }
+        
+        .nav li:last-child {
+            margin-right: 0;
+        }
+      
         .box {
             display: flex;
             margin-bottom: 30px;
@@ -65,6 +70,13 @@ line-height: 1.5;
         }
         section{
             background-color: lavender;
-            padding-left: 20px;
-            padding-right: 20px;
+            padding: 5px 20px;
+            margin-bottom: 20px;
+           
+        }
+        .link{
+           background-color: rebeccapurple;
+           color: white;
+           padding: 8px 15px;
+           margin-left: 10px;
         }
